@@ -13,7 +13,7 @@ void Returnfunc(void);
 void Mainmenu(void);
 void Addbooks(void);
 void Deletebooks(void);
-void Editbooks(void);
+void Editboooks(void);
 void Searchbooks(void);
 void Issuebooks(void);
 void Viewbooks(void);
