@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
-#include <string.h> // contains strcmp(), strcpy(), strlen(), etc.
-#include <ctype.h>  // contains toupper(), tolower(), etc.
+#include <string.h> 
+#include <ctype.h>  
 #include <time.h>
 
 #define RETURNTIME 15
